@@ -1,0 +1,33 @@
+body {
+
+    background-image: url('../images/4238051-background.jpg');
+    background-repeat: no-repeat;
+    background-color: #1f2021;
+    align-content: center;
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+}
+body > .container {
+
+    margin-top: 25%;
+    text-shadow: 2px 2px #000000;
+}
+
+h1 {
+
+    text-align: center;
+    font-weight:bold;
+    font-family: FontAwesome;
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
+.btn-primary {
+
+    background-color: black;
+    border-color: white;
+}
